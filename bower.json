@@ -1,0 +1,21 @@
+{
+  "name": "random-sword-sorcery-adventure-generator",
+  "version": "0.0.0",
+  "homepage": "http://random-sword-sorcery-adventure-generator.mattross.io/",
+  "authors": [
+    "Matt Ross <matt@mattross.io>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "backbone.marionette": "~2.0.3"
+  }
+}

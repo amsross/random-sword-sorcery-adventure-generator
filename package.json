@@ -1,0 +1,20 @@
+{
+  "name": "random-sword-sorcery-adventure-generator",
+  "version": "0.0.0",
+  "description": "Random Sword & Sorcery Adventure Generator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amsross/random-sword-sorcery-adventure-generator.git"
+  },
+  "author": "Matt Ross <matt@mattross.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amsross/random-sword-sorcery-adventure-generator/issues"
+  },
+  "homepage": "https://github.com/amsross/random-sword-sorcery-adventure-generator",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+  }
+}
