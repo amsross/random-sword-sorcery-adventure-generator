@@ -1,6 +1,6 @@
+*.min.*
 assets/js/scripts.js
 assets/js/templates.js
-assets/js/*.min.*
 assets/vendor/*
 error_log
 node_modules
