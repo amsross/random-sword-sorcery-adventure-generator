@@ -1,0 +1,82 @@
+[
+  {
+    "result": 1,
+    "text": "Adventure locale is a Potemkin village and supposed mission assigned to PCs is a sinister experiment"
+  },
+  {
+    "result": 2,
+    "text": "Antagonist is a PC from another time or reality"
+  },
+  {
+    "result": 3,
+    "text": "Antagonist is an ally or friend in disguise"
+  },
+  {
+    "result": 4,
+    "text": "Antagonist is actually pursuing a worthy goal"
+  },
+  {
+    "result": 5,
+    "text": "Antagonist is actually the puppet of another (roll on Antagonist table to determine actual Antagonist)"
+  },
+  {
+    "result": 6,
+    "text": "Apparently mundane is actually supernatural"
+  },
+  {
+    "result": 7,
+    "text": "Apparently supernatural is actually mundane"
+  },
+  {
+    "result": 8,
+    "text": "Betrayal by supposed ally or friend"
+  },
+  {
+    "result": 9,
+    "text": "Distortion of time or space in adventure locale"
+  },
+  {
+    "result": 10,
+    "text": "Entire adventure is actually a delusion or dream"
+  },
+  {
+    "result": 11,
+    "text": "Entire adventure is actually the jest of a mad god"
+  },
+  {
+    "result": 12,
+    "text": "Forced to ally with enemy or rival"
+  },
+  {
+    "result": 13,
+    "text": "Goals and motivations of important NPCs have been misrepresented"
+  },
+  {
+    "result": 14,
+    "text": "Important NPC has a twin brother or sister, leading to mass confusion"
+  },
+  {
+    "result": 15,
+    "text": "Original mission is actually a red herring (roll on Mission table to determine actual mission)"
+  },
+  {
+    "result": 16,
+    "text": "Original mission is actually a trap and actual mission is to survive and escape"
+  },
+  {
+    "result": 17,
+    "text": "Original mission is actually a wild goose chase, and new mission is revenge on perpetrator"
+  },
+  {
+    "result": 18,
+    "text": "Portion of adventure is a wild goose chase"
+  },
+  {
+    "result": 19,
+    "text": "Portion of adventure is actually a delusion or dream"
+  },
+  {
+    "result": 20,
+    "text": "Success in mission leads to unexpected and dire consequences"
+  }
+]

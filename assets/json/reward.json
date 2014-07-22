@@ -1,0 +1,82 @@
+[
+  {
+    "result": 1,
+    "text": "Clue to another adventure"
+  },
+  {
+    "result": 2,
+    "text": "Desirable lover"
+  },
+  {
+    "result": 3,
+    "text": "Exotic spices or lotuses"
+  },
+  {
+    "result": 4,
+    "text": "Favor of a cult or deity"
+  },
+  {
+    "result": 5,
+    "text": "Favor of powerful NPC"
+  },
+  {
+    "result": 6,
+    "text": "Gold"
+  },
+  {
+    "result": 7,
+    "text": "Loyal henchman"
+  },
+  {
+    "result": 8,
+    "text": "Magical armour, shield, or weapon"
+  },
+  {
+    "result": 9,
+    "text": "Pardon for crimes"
+  },
+  {
+    "result": 10,
+    "text": "Potion or alchemical preparation"
+  },
+  {
+    "result": 11,
+    "text": "Precious jewels"
+  },
+  {
+    "result": 12,
+    "text": "Rare and wondrous steed"
+  },
+  {
+    "result": 13,
+    "text": "Rare furs or silks"
+  },
+  {
+    "result": 14,
+    "text": "Scroll of spells, magic ring, magic wand, or other magic item"
+  },
+  {
+    "result": 15,
+    "text": "Wench or manservant"
+  },
+  {
+    "result": 16,
+    "text": "Roll twice on this table (reroll any result over 15)"
+  },
+  {
+    "result": 17,
+    "text": "Roll three times on this table (reroll any result over 15)"
+  },
+  {
+    "result": 18,
+    "text": "Roll four times on this table (reroll any result over 15)"
+  },
+  {
+    "result": 19,
+    "text": "Roll five times on this table (reroll any result over 15)"
+  },
+  {
+    "result": 20,
+    "text": "Nothing but their miserable hides"
+  }
+]

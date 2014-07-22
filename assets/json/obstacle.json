@@ -1,0 +1,82 @@
+[
+  {
+    "result": 1,
+    "text": "Armed guards"
+  },
+  {
+    "result": 2,
+    "text": "Assassins"
+  },
+  {
+    "result": 3,
+    "text": "Bandits or pirates"
+  },
+  {
+    "result": 4,
+    "text": "Concealment, deception, or secrecy"
+  },
+  {
+    "result": 5,
+    "text": "Curse (real or imaginary)
+  "},
+  {
+    "result": 6,
+    "text": "Deadly environment"
+  },
+  {
+    "result": 7,
+    "text": "Dishonesty and greed of populace"
+  },
+  {
+    "result": 8,
+    "text": "Great distance"
+  },
+  {
+    "result": 9,
+    "text": "Inscription that needs translated"
+  },
+  {
+    "result": 10,
+    "text": "Lack of supplies"
+  },
+  {
+    "result": 11,
+    "text": "Limited time"
+  },
+  {
+    "result": 12,
+    "text": "Looming natural or unnatural disaster"
+  },
+  {
+    "result": 13,
+    "text": "Magical wards or guards"
+  },
+  {
+    "result": 14,
+    "text": "Monster"
+  },
+  {
+    "result": 15,
+    "text": "Native cannibals or headhunters"
+  },
+  {
+    "result": 16,
+    "text": "Physical barrier"
+  },
+  {
+    "result": 17,
+    "text": "Riddle that must be solved"
+  },
+  {
+    "result": 18,
+    "text": "Roaming savage beasts"
+  },
+  {
+    "result": 19,
+    "text": "Thieves"
+  },
+  {
+    "result": 20,
+    "text": "Wrong or misleading information"
+  }
+]

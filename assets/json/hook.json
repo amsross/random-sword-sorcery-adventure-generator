@@ -1,0 +1,82 @@
+[
+  {
+    "result": 1,
+    "text": "Ambushed and left for dead"
+  },
+  {
+    "result": 2,
+    "text": "Arrested and pressed into service"
+  },
+  {
+    "result": 3,
+    "text": "Asked as a favor"
+  },
+  {
+    "result": 4,
+    "text": "Blackmailed"
+  },
+  {
+    "result": 5,
+    "text": "Cursed by a god"
+  },
+  {
+    "result": 6,
+    "text": "Dared or had courage questioned"
+  },
+  {
+    "result": 7,
+    "text": "Found old map"
+  },
+  {
+    "result": 8,
+    "text": "Geased by a sorcerer"
+  },
+  {
+    "result": 9,
+    "text": "Had a dream or vision"
+  },
+  {
+    "result": 10,
+    "text": "Heard a prophecy"
+  },
+  {
+    "result": 11,
+    "text": "Heard a song or poem"
+  },
+  {
+    "result": 12,
+    "text": "Hired"
+  },
+  {
+    "result": 13,
+    "text": "Lost or shipwrecked"
+  },
+  {
+    "result": 14,
+    "text": "Made a wager"
+  },
+  {
+    "result": 15,
+    "text": "Ordered by superior"
+  },
+  {
+    "result": 16,
+    "text": "Overheard conversation"
+  },
+  {
+    "result": 17,
+    "text": "Read ancient scroll or tablet"
+  },
+  {
+    "result": 18,
+    "text": "Repaying a debt"
+  },
+  {
+    "result": 19,
+    "text": "Stumbled into situation"
+  },
+  {
+    "result": 20,
+    "text": "Wronged and seeking revenge"
+  }
+]

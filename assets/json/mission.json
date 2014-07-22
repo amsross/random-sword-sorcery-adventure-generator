@@ -1,0 +1,82 @@
+[
+  {
+    "result": 1,
+    "text": "Attack (roll place to be attacked)"
+  },
+  {
+    "result": 2,
+    "text": "Decipher (roll thing to be deciphered)"
+  },
+  {
+    "result": 3,
+    "text": "Destroy (roll thing to be destroyed)"
+  },
+  {
+    "result": 4,
+    "text": "Elude (roll person to be eluded)"
+  },
+  {
+    "result": 5,
+    "text": "Escape (roll place to be escaped)"
+  },
+  {
+    "result": 6,
+    "text": "Escort (roll person to be escorted)"
+  },
+  {
+    "result": 7,
+    "text": "Explore (roll place to be explored)"
+  },
+  {
+    "result": 8,
+    "text": "Find (roll thing to be found)"
+  },
+  {
+    "result": 9,
+    "text": "Guard (roll thing to be guarded)"
+  },
+  {
+    "result": 10,
+    "text": "Kidnap (roll person to be kidnapped)"
+  },
+  {
+    "result": 11,
+    "text": "Kill (roll person to be killed)"
+  },
+  {
+    "result": 12,
+    "text": "Locate (roll person to be located)"
+  },
+  {
+    "result": 13,
+    "text": "Protect (roll person to be protected)"
+  },
+  {
+    "result": 14,
+    "text": "Question (roll person to be questioned)"
+  },
+  {
+    "result": 15,
+    "text": "Recover (roll thing to be recovered)"
+  },
+  {
+    "result": 16,
+    "text": "Rescue (roll person to be rescued)"
+  },
+  {
+    "result": 17,
+    "text": "Seek (roll place to be sought)"
+  },
+  {
+    "result": 18,
+    "text": "Steal (roll thing to be stolen)"
+  },
+  {
+    "result": 19,
+    "text": "Transport (roll thing to be transported)"
+  },
+  {
+    "result": 20,
+    "text": "Watch (roll place to be watched)"
+  }
+]
