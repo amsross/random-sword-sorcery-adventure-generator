@@ -1,8 +1,6 @@
-assets/css/*main*.css
-assets/css/main.css.map
-assets/js/*scripts*.js
-assets/js/vendor/modernizr.min.js
-assets/manifest.json
+assets/js/scripts.js
+assets/js/templates.js
+assets/js/*.min.*
 assets/vendor/*
 error_log
 node_modules
