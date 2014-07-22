@@ -1,4 +1,4 @@
-random-sword-sorcery-adventure-generator
+Random Sword & Sorcery Adventure Generator
 ========================================
 
-Random Sword &amp; Sorcery Adventure Generator
+Based on http://www.swordsmen-and-sorcerers.com/wp-content/uploads/2013/04/ASSHrandom-adv-gen.pdf
